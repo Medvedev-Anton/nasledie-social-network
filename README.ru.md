@@ -4,6 +4,14 @@
 
 ## Технологии
 
+---
+
+## Скриншот
+
+![Nasledie social network interface](docs/images/nasledie-main.png)
+
+---
+
 ### Backend
 - Node.js + Express
 - SQLite (better-sqlite3)
