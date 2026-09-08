@@ -204,9 +204,9 @@ JWT secrets should always be provided through environment variables in productio
 
 ## Project Status
 
-Nasledie is an independent portfolio project and has been deployed on a server.
+Nasledie is a collaborative full-stack project that has been deployed and used on a server.
 
-The project was created as a practical full-stack application rather than as a production-ready commercial social network.
+Development was carried out by multiple contributors at different stages of the project.
 
 ---
 
